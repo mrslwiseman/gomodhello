@@ -1,3 +1,3 @@
-module github.com/mrslwiseman/gomodhello/v1
+module github.com/mrslwiseman/gomodhello
 
 go 1.19
